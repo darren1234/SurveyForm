@@ -1,4 +1,22 @@
+body {
+    text-align: center;
+}
+
 .survey-form-container {
+    background: lightblue;
     display: grid;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
     grid-template-columns: 50% 50%;
+}
+
+.formFieldLabels {
+    text-align: left;
+    background-color: aquamarine;
+}
+
+.formFieldInputContent {
+    text-align: left;
+    background-color: blueviolet;
 }
