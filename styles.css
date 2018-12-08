@@ -13,10 +13,10 @@ body {
 
 .formFieldLabels {
     text-align: left;
-    background-color: aquamarine;
+    padding: 3px 3px 3px 3px;
 }
 
 .formFieldInputContent {
     text-align: left;
-    background-color: blueviolet;
+    padding: 3px 3px 3px 3px;
 }
