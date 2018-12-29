@@ -1,2 +1,5 @@
 # SurveyForm
-A HTML Form for testing
+
+Free Code Camp - Responsive Web Design Project #2
+
+A basic HTML/CSS Form.
